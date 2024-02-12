@@ -18,8 +18,8 @@
   <a href="https://github.com/felipepalage">
     <img height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/wendellast"></a>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=date_night"/>
+  <a href="https://github.com/felipepalage"></a>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepalage&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
 <br><br>

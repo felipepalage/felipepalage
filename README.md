@@ -15,7 +15,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
 
 <div align="center" >
-  <a href="https://github.com/wendellast">
+  <a href="https://github.com/felipepalage">
     <img height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/wendellast"></a>
@@ -37,9 +37,7 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   </a>
  
-  <a href="https://www.qt.io/">
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QT">
-  </a>
+  
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
@@ -80,4 +78,3 @@
 
 <br>
 
-[![Felipe Palage's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)]([https://github.com/wendellast](https://github.com/felipepalage)https://github.com/felipepalage)

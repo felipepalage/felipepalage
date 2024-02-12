@@ -7,9 +7,6 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Felipe%3BI%27m+a+Front End+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
-
-
 
 <h2  style="color: #ba6771;">Overview 👉</h2>
 

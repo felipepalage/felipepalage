@@ -47,7 +47,7 @@
 
 
     <a href="https://github.com/](https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="C#">
   </a>
  
  

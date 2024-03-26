@@ -46,10 +46,6 @@
   </a>
 
 
-    <a href="https://github.com/](https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="C#">
-  </a>
- 
  
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">

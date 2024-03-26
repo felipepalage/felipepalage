@@ -44,6 +44,12 @@
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+
+
+    <a href="https://github.com/](https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  </a>
+ 
  
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">

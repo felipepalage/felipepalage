@@ -27,15 +27,9 @@
 <h2 style="color: #ba6771;">Skills 🚀</h2>
 
 <p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  </a>
+
+
+ 
  
   
   <a href="https://git-scm.com/">
@@ -55,9 +49,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
-  </a>
+ 
 </p>
 
 

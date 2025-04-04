@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center" style="color: #ba6771;">
-【𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱】
+【Bem Vindo】
 </h1>
 
 <!-- Background -->

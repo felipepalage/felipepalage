@@ -24,17 +24,6 @@
 
 <br><br>
 
-<h2 style="color: #ba6771;">Skills 🚀</h2>
-
-<p align="center">
-
-
- 
-</p>
-
-
-
-<h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
 
 
 
